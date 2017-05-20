@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Turbine Test</string>
+    <string name="no_connection">There was a problem downloading the ads</string>
+    <string name="average_rate">The average rate is %1$s</string>
+    <string name="app_id">app_id: %1$s</string>
+    <string name="bidRate">bidRate: %1$s</string>
+    <string name="callToAction">callToAction: %1$s</string>
+    <string name="campaignDisplayOrder">campaignDisplayOrder: %1$s</string>
+    <string name="campaignId">campaignId: %1$s</string>
+    <string name="campaignTypeId">campaignTypeId: %1$s</string>
+    <string name="categoryName">categoryName: %1$s</string>
+    <string name="creativeId">creativeId: %1$s</string>
+    <string name="homeScreen">homeScreen: %1$s</string>
+    <string name="isRandomPick">isRandomPick: %1$s</string>
+    <string name="minOSVersion">minOSVersion: %1$s</string>
+    <string name="numberOfRatings">numberOfRatings: %1$s</string>
+    <string name="productDescription">productDescription: %1$s</string>
+    <string name="productId">productId: %1$s</string>
+
+</resources>
